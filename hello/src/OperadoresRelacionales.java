@@ -25,5 +25,8 @@ public class OperadoresRelacionales {
         boolean b6 = i > j;
         System.out.println("b6 = " + b6);
 
+        boolean b7 = i < j ;
+        System.out.println("b7 = " + b7);
+
     }
 }
